@@ -1,0 +1,1 @@
+@Or(endswith(item()?['{Path}'], 'data1/'),endswith(item()?['{Path}'], 'data2/'),endswith(item()?['{Path}'], 'data3/'),endswith(item()?['{Path}'], 'data4/'))
